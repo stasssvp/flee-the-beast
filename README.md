@@ -32,7 +32,7 @@ The game challenges players to outsmart the pursuing creatures and achieve the h
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/flee-the-beast.git
+    git clone https://github.com/stasssvp/flee-the-beast.git
     ```
 
 2. Open the project via **Unity Hub**:
