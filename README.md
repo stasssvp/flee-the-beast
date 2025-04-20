@@ -77,3 +77,7 @@ The game challenges players to outsmart the pursuing creatures and achieve the h
 ## Credits
 
 Developed by: Stanimir Petkov
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for more information.
